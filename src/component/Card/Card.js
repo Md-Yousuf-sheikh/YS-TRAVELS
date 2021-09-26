@@ -13,13 +13,14 @@ const Card = (props) => {
     const budget = 100000 - total;
     return (
         <div>
+            
             <div className="card card-main text-dark bg-light mb-3">
                 <div className="card-header"><h4>Travel Places Added</h4></div>
                 <div className="card-body">
                     
                     <div className="text-light">
                         <h5 className='title-color'>Your Budget: {budget} BDT </h5>
-                        <h5>Total Travel: {props.cart.length}</h5>
+                        <h5>Total Travel: <i class="fas fa-users"></i> <sup className="bg-danger">{props.cart.length}</sup> </h5>
                         <h6>Total : {total}k BDT</h6>
                         <strong>Placese Name</strong>
                     </div>

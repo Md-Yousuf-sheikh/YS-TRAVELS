@@ -13,8 +13,8 @@ const Place = (props) => {
                         <li className="list-group-item"> <strong>Country : </strong>{country}</li>
                         <li className="list-group-item"> <strong>Division : </strong>{division}</li>
                         <li className="list-group-item"> <strong>Area : </strong>{area} </li>
-                        <li className="list-group-item"> <strong>Coust : </strong>{price}K /=Tk</li>
-                        <button onClick={()=> props.addToCart(props.place)} className="btn mt-2 buyNowBtn">Add to Cart <i className="fas fa-cart-arrow-down"></i>
+                        <li className="list-group-item"> <strong>Coust : </strong>{price}k/=Tk</li>
+                        <button onClick={()=> props.addToCart(props.place)} className="btn mt-2 buyNowBtn">Add to Cart <i class="fas fa-plane-departure"></i>
                         </button>
                     </ul>
                 </div>

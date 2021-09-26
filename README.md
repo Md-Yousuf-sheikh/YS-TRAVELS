@@ -1,12 +1,14 @@
 # YS Travels > Chooes Your Favourite travelling place
 
-You can use this web site for travling parpase [Favourite travelling place]('https://assinment-8-ys-traveling.netlify.app/').
+You can use this web site for travling parpase [Ys Travels]('https://assinment-8-ys-traveling.netlify.app/').
 
 ## Why you use this website!!
 
-This website shows some of your favorite place.
-From here you can select the places of your choice according to your budget.
-You can see how much it will cost you every day.
+            YS Travels
+
+- This website shows some of your favorite place.
+- From here you can select the places of your choice according to your budget.
+- You can see how much it will cost you every day.
 
 ## Available Scripts
 
