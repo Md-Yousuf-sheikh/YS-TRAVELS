@@ -1,0 +1,93 @@
+[
+    {
+    "id": 12,
+    "name": "Vivo V21e",
+    "brand": "VIVO",
+    "price": 26990,
+    "ram": "8 GB",
+    "rom": "128 GB (UFS 2.2)",
+    "disply": "6.44 inches",
+    "img": "https://www.mobiledokan.com/wp-content/uploads/2021/06/Vivo-V21e.jpg"
+}, {
+    "id": 13,
+    "name": "Motorola Moto G60",
+    "brand": "MOTOROLA",
+    "price": 28999,
+    "ram": "6 GB",
+    "rom": "128 GB (UFS 2.1)",
+    "disply": "6.8 inches",
+    "img": "https://www.mobiledokan.com/wp-content/uploads/2021/08/Motorola-Moto-G60-image.jpg"
+}, {
+    "id": 14,
+    "name": "Motorola Moto G40 Fusion",
+    "brand": "Motorola",
+    "price": 20999,
+    "ram": "6 GB",
+    "rom": "64 GB (UFS 2.2)",
+    "disply": "6.8 inches",
+    "img": "https://www.mobiledokan.com/wp-content/uploads/2021/08/Motorola-Moto-G40-Fusion-image.jpg"
+}, {
+    "id": 15,
+    "name": "Xiaomi Poco M3 Pro 5G",
+    "brand": "Xiaomi",
+    "price": 23999,
+    "ram": "6 GB",
+    "rom": "265 GB (UFS 2.2)",
+    "disply": "6.44 inches",
+    "img": "https://www.mobiledokan.com/wp-content/uploads/2021/08/Xiaomi-Poco-M3-Pro-5G-image.jpg"
+}, {
+    "id": 16,
+    "name": "Walton Primo ZX4",
+    "brand": "Walton",
+    "price": 24999,
+    "ram": "8 GB",
+    "rom": "128 GB",
+    "disply": "6.8 inches",
+    "img": "https://www.mobiledokan.com/wp-content/uploads/2021/06/Walton-Primo-ZX4-image.jpg"
+}, {
+    "id": 17,
+    "name": "Vivo Y53s",
+    "brand": "Vivo",
+    "price": 22990,
+    "ram": "8 GB",
+    "rom": "128 GB (UFS 2.1)",
+    "disply": "6.9 inches",
+    "img": "https://www.mobiledokan.com/wp-content/uploads/2021/08/Vivo-Y53s-image.jpg"
+}, {
+    "id": 18,
+    "name": "Realme 8 5G",
+    "brand": "Realme",
+    "price": 25999,
+    "ram": "8 GB",
+    "rom": "264 GB (UFS 2.2)",
+    "disply": "6.44 inches",
+    "img": "https://www.mobiledokan.com/wp-content/uploads/2021/07/Realme-8-5G-image.jpg"
+}, {
+    "id": 19,
+    "name": "Xiaomi Mi 11 Lite",
+    "brand": "Xiaomi",
+    "price": 31999,
+    "ram": "8 GB",
+    "rom": "264 GB (UFS 2.2)",
+    "disply": "6.44 inches",
+    "img": "https://www.mobiledokan.com/wp-content/uploads/2021/07/Xiaomi-Mi-11-Lite-image.jpg"
+}, {
+    "id": 20,
+    "name": "Samsung Galaxy A22",
+    "brand": "Samsung",
+    "price": 22999,
+    "ram": "8 GB",
+    "rom": "128 GB (UFS 2.2)",
+    "disply": "6.44 inches",
+    "img": "https://www.mobiledokan.com/wp-content/uploads/2021/07/Samsung-Galaxy-A22-image.jpg"
+}, {
+    "id": 21,
+    "name": "Samsung Galaxy M32",
+    "brand": "Samsung",
+    "price": 24999,
+    "ram": "8 GB",
+    "rom": "128 GB (UFS 2.2)",
+    "disply": "6.44 inches",
+    "img": "https://www.mobiledokan.com/wp-content/uploads/2021/07/Samsung-Galaxy-M32-image.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+.card-body{
+    background-color: #1e6091;
+}
+.card-main{
+    overflow: hidden;
+    border-radius: 20px 20px 5px 5px ;
+    max-width: 18rem;
+}
+.title-color{
+    color: aqua;
+}
