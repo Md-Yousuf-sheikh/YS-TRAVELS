@@ -1,6 +1,7 @@
 # YS Travels > Chooes Your Favourite travelling place
 
 You can use this web site for travling parpase [Ys Travels]('https://assinment-8-ys-traveling.netlify.app/').
+## Live Site Link: https://assinment-8-ys-traveling.netlify.app/
 
 ## Why you use this website!!
 
